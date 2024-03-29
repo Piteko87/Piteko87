@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hola soy Piteko 
 
+Soy ingeniero en sistemas especializado en QA, con experiencia de mas de 6 años en Testing de aplicaciones.
+
+Desde hace tiempo he estado interesado en la automatizacion del testing, asi que he decidido crear este espacio para compartir mi concocimiento adquirido, con distintas herramientas desde Selenium, Appium, Playwrigth, que ire subiendo poco a poco.
+
+Espero sea de utilidad para la comunidad y personas interesadas en el Testing de apps. Un saludo
+
+"Lo mejor que se puede compartir es el conocimiento"
 <!--
 **Piteko87/Piteko87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
