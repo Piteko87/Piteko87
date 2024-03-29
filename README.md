@@ -6,7 +6,7 @@ Desde hace tiempo he estado interesado en la automatizacion del testing, asi que
 
 Espero sea de utilidad para la comunidad y personas interesadas en el Testing de apps. Un saludo
 
-"Lo mejor que se puede compartir es el conocimiento"
+"Lo mejor que se puede compartir es el conocimiento" ♥
 <!--
 **Piteko87/Piteko87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
